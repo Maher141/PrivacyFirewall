@@ -1,0 +1,163 @@
+	Number of IPV4 entries: 16
+
+	TCP[0] State: 2 - LISTEN
+	TCP[0] Local Addr: 0.0.0.0
+	TCP[0] Local Port: 135 
+	TCP[0] Remote Addr: 0.0.0.0
+	TCP[0] Remote Port: 0
+
+	TCP[1] State: 2 - LISTEN
+	TCP[1] Local Addr: 0.0.0.0
+	TCP[1] Local Port: 445 
+	TCP[1] Remote Addr: 0.0.0.0
+	TCP[1] Remote Port: 0
+
+	TCP[2] State: 2 - LISTEN
+	TCP[2] Local Addr: 0.0.0.0
+	TCP[2] Local Port: 5040 
+	TCP[2] Remote Addr: 0.0.0.0
+	TCP[2] Remote Port: 0
+
+	TCP[3] State: 2 - LISTEN
+	TCP[3] Local Addr: 0.0.0.0
+	TCP[3] Local Port: 49664 
+	TCP[3] Remote Addr: 0.0.0.0
+	TCP[3] Remote Port: 0
+
+	TCP[4] State: 2 - LISTEN
+	TCP[4] Local Addr: 0.0.0.0
+	TCP[4] Local Port: 49665 
+	TCP[4] Remote Addr: 0.0.0.0
+	TCP[4] Remote Port: 0
+
+	TCP[5] State: 2 - LISTEN
+	TCP[5] Local Addr: 0.0.0.0
+	TCP[5] Local Port: 49666 
+	TCP[5] Remote Addr: 0.0.0.0
+	TCP[5] Remote Port: 0
+
+	TCP[6] State: 2 - LISTEN
+	TCP[6] Local Addr: 0.0.0.0
+	TCP[6] Local Port: 49667 
+	TCP[6] Remote Addr: 0.0.0.0
+	TCP[6] Remote Port: 0
+
+	TCP[7] State: 2 - LISTEN
+	TCP[7] Local Addr: 0.0.0.0
+	TCP[7] Local Port: 49668 
+	TCP[7] Remote Addr: 0.0.0.0
+	TCP[7] Remote Port: 0
+
+	TCP[8] State: 2 - LISTEN
+	TCP[8] Local Addr: 0.0.0.0
+	TCP[8] Local Port: 49669 
+	TCP[8] Remote Addr: 0.0.0.0
+	TCP[8] Remote Port: 0
+
+	TCP[9] State: 2 - LISTEN
+	TCP[9] Local Addr: 192.168.171.132
+	TCP[9] Local Port: 139 
+	TCP[9] Remote Addr: 0.0.0.0
+	TCP[9] Remote Port: 0
+
+	TCP[10] State: 5 - ESTABLISHED
+	TCP[10] Local Addr: 192.168.171.132
+	TCP[10] Local Port: 49682 
+	TCP[10] Remote Addr: 40.115.3.253
+	TCP[10] Remote Port: 443
+
+	TCP[11] State: 8 - CLOSE-WAIT
+	TCP[11] Local Addr: 192.168.171.132
+	TCP[11] Local Port: 50165 
+	TCP[11] Remote Addr: 2.20.142.43
+	TCP[11] Remote Port: 443
+
+	TCP[12] State: 8 - CLOSE-WAIT
+	TCP[12] Local Addr: 192.168.171.132
+	TCP[12] Local Port: 50167 
+	TCP[12] Remote Addr: 184.25.50.57
+	TCP[12] Remote Port: 443
+
+	TCP[13] State: 8 - CLOSE-WAIT
+	TCP[13] Local Addr: 192.168.171.132
+	TCP[13] Local Port: 50168 
+	TCP[13] Remote Addr: 95.101.178.226
+	TCP[13] Remote Port: 443
+
+	TCP[14] State: 5 - ESTABLISHED
+	TCP[14] Local Addr: 192.168.171.132
+	TCP[14] Local Port: 50184 
+	TCP[14] Remote Addr: 104.43.200.36
+	TCP[14] Remote Port: 443
+
+	TCP[15] State: 5 - ESTABLISHED
+	TCP[15] Local Addr: 192.168.171.132
+	TCP[15] Local Port: 50185 
+	TCP[15] Remote Addr: 13.69.106.211
+	TCP[15] Remote Port: 443
+
+	Number of IPV6 entries: 8
+
+	TCP[0] State: 2 - LISTEN
+	TCP[0] Local Addr: :
+	TCP[0] Local Scope ID: 0 
+	TCP[0] Local Port: 135 
+	TCP[0] Remote Addr: :
+	TCP[0] Remote Scope ID: 0 
+	TCP[0] Remote Port: 0
+
+	TCP[1] State: 2 - LISTEN
+	TCP[1] Local Addr: :
+	TCP[1] Local Scope ID: 0 
+	TCP[1] Local Port: 445 
+	TCP[1] Remote Addr: :
+	TCP[1] Remote Scope ID: 0 
+	TCP[1] Remote Port: 0
+
+	TCP[2] State: 2 - LISTEN
+	TCP[2] Local Addr: :
+	TCP[2] Local Scope ID: 0 
+	TCP[2] Local Port: 49664 
+	TCP[2] Remote Addr: :
+	TCP[2] Remote Scope ID: 0 
+	TCP[2] Remote Port: 0
+
+	TCP[3] State: 2 - LISTEN
+	TCP[3] Local Addr: :
+	TCP[3] Local Scope ID: 0 
+	TCP[3] Local Port: 49665 
+	TCP[3] Remote Addr: :
+	TCP[3] Remote Scope ID: 0 
+	TCP[3] Remote Port: 0
+
+	TCP[4] State: 2 - LISTEN
+	TCP[4] Local Addr: :
+	TCP[4] Local Scope ID: 0 
+	TCP[4] Local Port: 49666 
+	TCP[4] Remote Addr: :
+	TCP[4] Remote Scope ID: 0 
+	TCP[4] Remote Port: 0
+
+	TCP[5] State: 2 - LISTEN
+	TCP[5] Local Addr: :
+	TCP[5] Local Scope ID: 0 
+	TCP[5] Local Port: 49667 
+	TCP[5] Remote Addr: :
+	TCP[5] Remote Scope ID: 0 
+	TCP[5] Remote Port: 0
+
+	TCP[6] State: 2 - LISTEN
+	TCP[6] Local Addr: :
+	TCP[6] Local Scope ID: 0 
+	TCP[6] Local Port: 49668 
+	TCP[6] Remote Addr: :
+	TCP[6] Remote Scope ID: 0 
+	TCP[6] Remote Port: 0
+
+	TCP[7] State: 2 - LISTEN
+	TCP[7] Local Addr: :
+	TCP[7] Local Scope ID: 0 
+	TCP[7] Local Port: 49669 
+	TCP[7] Remote Addr: :
+	TCP[7] Remote Scope ID: 0 
+	TCP[7] Remote Port: 0
