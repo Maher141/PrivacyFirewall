@@ -1,0 +1,4 @@
+C:\Users\Bachelor\source\repos\CppCLR_WinForms_GUI1\CppCLR_WinForms_GUI1\x64\Debug\CppCLR_WinForms_GUI1.vcxproj.AssemblyReference.cache
+C:\Users\Bachelor\source\repos\CppCLR_WinForms_GUI1\CppCLR_WinForms_GUI1\x64\Debug\CppCLR_WinForms_GUI1.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Bachelor\source\repos\CppCLR_WinForms_GUI1\CppCLR_WinForms_GUI1\x64\Debug\CppCLR_WinForms_GUI1.Form1.resources
+C:\Users\Bachelor\source\repos\CppCLR_WinForms_GUI1\CppCLR_WinForms_GUI1\x64\Debug\CppCLR_WinForms_GUI1.vcxproj.GenerateResource.cache
