@@ -18,6 +18,9 @@ Needed Applications and components:
    - For Windows 10 Users: C++ Win 11 SDK and Win 10 SDK
    - C++/CLI support for v143 build tools (v14.33-17.3)
    - [Windows Driver Kit with integration to Visual Studio 2022](https://learn.microsoft.com/en-us/windows-hardware/drivers/download-the-wdk)
+
+Extract the downloaded "PrivacyFirewall" folder and open it with Visual Studio 2022.
+Now its ready to start.
    
 ### Uninstall:
 Just delete the "PrivacyFirewall" folder.
