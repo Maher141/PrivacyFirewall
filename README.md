@@ -14,10 +14,10 @@ Current Features included are:
 There is no executable file available in the current version.
 Needed Applications and components:
 - [Visual Studio 2022](https://visualstudio.microsoft.com/vs/)
-   - For Windows 11 Users: C++ Win 11 SDK
-   - For Windows 10 Users: C++ Win 11 SDK and Win 10 SDK
-   - C++/CLI support for v143 build tools (v14.33-17.3)
-   - [Windows Driver Kit with integration to Visual Studio 2022](https://learn.microsoft.com/en-us/windows-hardware/drivers/download-the-wdk)
+   - For Windows 11 Users: C++ Win 11 SDK Component
+   - For Windows 10 Users: C++ Win 11 SDK and Win 10 SDK Component
+   - C++/CLI support for v143 build tools (v14.33-17.3) Component
+   - [Windows Driver Kit with integration to Visual Studio 2022 (Component)](https://learn.microsoft.com/en-us/windows-hardware/drivers/download-the-wdk)
 
 Extract the downloaded "PrivacyFirewall" folder and open it with Visual Studio 2022.
 Now its ready to start.
