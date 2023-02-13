@@ -1,0 +1,22 @@
+﻿  ImplementationFirewall.cpp
+C:\Users\adsada\Desktop\Neuer Ordner\PrivacyFirewallB-master\PrivacyFirewallB-master\CppCLR_WinForms_GUI1\CppCLR_WinForms_GUI1\ImplementationFirewall.cpp(62,18): warning C4267: "=": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\adsada\Desktop\Neuer Ordner\PrivacyFirewallB-master\PrivacyFirewallB-master\CppCLR_WinForms_GUI1\CppCLR_WinForms_GUI1\ImplementationFirewall.cpp(68,16): warning C4267: "+=": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\adsada\Desktop\Neuer Ordner\PrivacyFirewallB-master\PrivacyFirewallB-master\CppCLR_WinForms_GUI1\CppCLR_WinForms_GUI1\ImplementationFirewall.cpp(175,39): warning C4805: "==": unsichere Kombination von Typ "boolean" mit Typ "bool" in einer Operation
+C:\Users\adsada\Desktop\Neuer Ordner\PrivacyFirewallB-master\PrivacyFirewallB-master\CppCLR_WinForms_GUI1\CppCLR_WinForms_GUI1\ImplementationFirewall.cpp(147,6): warning C4101: "zeile": Unreferenzierte lokale Variable
+C:\Users\adsada\Desktop\Neuer Ordner\PrivacyFirewallB-master\PrivacyFirewallB-master\CppCLR_WinForms_GUI1\CppCLR_WinForms_GUI1\ImplementationFirewall.cpp(57): warning C4793: "dupcat" : Funktion wird als systemeigen kompiliert :
+  	Varargs werden von "/clr" nicht unterstützt.
+C:\Users\adsada\Desktop\Neuer Ordner\PrivacyFirewallB-master\PrivacyFirewallB-master\CppCLR_WinForms_GUI1\CppCLR_WinForms_GUI1\ImplementationFirewall.cpp(63): warning C4793: "dupcat" : Funktion wird als systemeigen kompiliert :
+  	Es wurde eine systeminterne Funktion gefunden, die in verwaltetem Code nicht unterstützt wird.
+C:\Users\adsada\Desktop\Neuer Ordner\PrivacyFirewallB-master\PrivacyFirewallB-master\CppCLR_WinForms_GUI1\CppCLR_WinForms_GUI1\ImplementationFirewall.cpp(65): warning C4793: "dupcat" : Funktion wird als systemeigen kompiliert :
+  	Es wurde eine systeminterne Funktion gefunden, die in verwaltetem Code nicht unterstützt wird.
+C:\Users\adsada\Desktop\Neuer Ordner\PrivacyFirewallB-master\PrivacyFirewallB-master\CppCLR_WinForms_GUI1\CppCLR_WinForms_GUI1\ImplementationFirewall.cpp(70): warning C4793: "dupcat" : Funktion wird als systemeigen kompiliert :
+  	Es wurde eine systeminterne Funktion gefunden, die in verwaltetem Code nicht unterstützt wird.
+C:\Users\adsada\Desktop\Neuer Ordner\PrivacyFirewallB-master\PrivacyFirewallB-master\CppCLR_WinForms_GUI1\CppCLR_WinForms_GUI1\ImplementationFirewall.cpp(76): warning C4793: "dupcat" : Funktion wird als systemeigen kompiliert :
+  	Es wurde eine systeminterne Funktion gefunden, die in verwaltetem Code nicht unterstützt wird.
+C:\Users\adsada\Desktop\Neuer Ordner\PrivacyFirewallB-master\PrivacyFirewallB-master\CppCLR_WinForms_GUI1\CppCLR_WinForms_GUI1\ImplementationFirewall.cpp(78): warning C4793: "dupcat" : Funktion wird als systemeigen kompiliert :
+  	Es wurde eine systeminterne Funktion gefunden, die in verwaltetem Code nicht unterstützt wird.
+C:\Users\adsada\Desktop\Neuer Ordner\PrivacyFirewallB-master\PrivacyFirewallB-master\CppCLR_WinForms_GUI1\CppCLR_WinForms_GUI1\ImplementationFirewall.cpp(84): warning C4793: "dupcat" : Funktion wird als systemeigen kompiliert :
+  	Es wurde eine systeminterne Funktion gefunden, die in verwaltetem Code nicht unterstützt wird.
+C:\Users\adsada\Desktop\Neuer Ordner\PrivacyFirewallB-master\PrivacyFirewallB-master\CppCLR_WinForms_GUI1\CppCLR_WinForms_GUI1\ImplementationFirewall.cpp(181): warning C4700: Die nicht initialisierte lokale Variable "zaehler" wurde verwendet.
+  AssemblyInfo.obj : MSIL-Modulgefunden; inkrementelles Verknüpfen wird für MSIL deaktiviert; vollständiger Link wird durchgeführt
+  CppCLR_WinForms_GUI1.vcxproj -> C:\Users\adsada\Desktop\Neuer Ordner\PrivacyFirewallB-master\PrivacyFirewallB-master\CppCLR_WinForms_GUI1\x64\Debug\CppCLR_WinForms_GUI1.exe

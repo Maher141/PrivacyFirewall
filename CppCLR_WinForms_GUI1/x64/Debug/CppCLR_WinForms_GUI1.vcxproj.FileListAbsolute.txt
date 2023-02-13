@@ -1,0 +1,8 @@
+C:\Users\Bachelor\source\repos\CppCLR_WinForms_GUI1\CppCLR_WinForms_GUI1\x64\Debug\CppCLR_WinForms_GUI1.vcxproj.AssemblyReference.cache
+C:\Users\Bachelor\source\repos\CppCLR_WinForms_GUI1\CppCLR_WinForms_GUI1\x64\Debug\CppCLR_WinForms_GUI1.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Bachelor\source\repos\CppCLR_WinForms_GUI1\CppCLR_WinForms_GUI1\x64\Debug\CppCLR_WinForms_GUI1.Form1.resources
+C:\Users\Bachelor\source\repos\CppCLR_WinForms_GUI1\CppCLR_WinForms_GUI1\x64\Debug\CppCLR_WinForms_GUI1.vcxproj.GenerateResource.cache
+C:\Users\adsada\Desktop\Neuer Ordner\PrivacyFirewallB-master\PrivacyFirewallB-master\CppCLR_WinForms_GUI1\CppCLR_WinForms_GUI1\x64\Debug\CppCLR_WinForms_GUI1.vcxproj.AssemblyReference.cache
+C:\Users\adsada\Desktop\Neuer Ordner\PrivacyFirewallB-master\PrivacyFirewallB-master\CppCLR_WinForms_GUI1\CppCLR_WinForms_GUI1\x64\Debug\CppCLR_WinForms_GUI1.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\adsada\Desktop\Neuer Ordner\PrivacyFirewallB-master\PrivacyFirewallB-master\CppCLR_WinForms_GUI1\CppCLR_WinForms_GUI1\x64\Debug\CppCLR_WinForms_GUI1.Form1.resources
+C:\Users\adsada\Desktop\Neuer Ordner\PrivacyFirewallB-master\PrivacyFirewallB-master\CppCLR_WinForms_GUI1\CppCLR_WinForms_GUI1\x64\Debug\CppCLR_WinForms_GUI1.vcxproj.GenerateResource.cache
