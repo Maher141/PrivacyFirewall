@@ -20,4 +20,4 @@ Needed Applications and components:
    - [Windows Driver Kit with integration to Visual Studio 2022](https://learn.microsoft.com/en-us/windows-hardware/drivers/download-the-wdk)
    
 ### Uninstall:
-Just delete the downloaded folder.
+Just delete the "PrivacyFirewall" folder.
